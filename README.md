@@ -1,11 +1,11 @@
-### About me 😺
+### sobre mim:
 
 **gabriellerut/gabriellerut**  
 
-✨ *meu repositório*✨
+✨ *olá 👋*✨
 
-
-- 🔭 Atualmente trabalho em projetos básicos para desenvolver o conhecimento nessessário nas áreas correlatas...
-- 🌱 Atualmente estou aprendendo phyton e front-end...
-- 👯 Estou procurando colaborar em resolução de problemas cotidianos.
+- Eu sou Ruth Gabrielle
+- 👩‍💻 Atualmente trabalho em projetos básicos para desenvolver o conhecimento nessessário nas áreas correlatas...
+- 📚 Estou aprendendo phyton e front-end...
+- 🧩 Estou procurando colaborar em resolução de problemas cotidianos.
 - 📫 Como chegar até mim: ruthgabriellesf@gmail.com 
