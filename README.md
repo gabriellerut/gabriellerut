@@ -1,6 +1,6 @@
 ### About me 😺
 
-**gabriellerut/gabriellerut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*gabriellerut/gabriellerut* a ✨ _special_ ✨
 
 
 - 🔭 I’m currently working in projects basicos para desenvolver o conhecimento nessessário nas áreas correlatas ...
