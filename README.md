@@ -1,6 +1,8 @@
 ### About me 😺
 
-*gabriellerut/gabriellerut* a ✨ _special_ ✨
+**gabriellerut/gabriellerut**  
+
+✨ *meu repositório*✨
 
 
 - 🔭 I’m currently working in projects basicos para desenvolver o conhecimento nessessário nas áreas correlatas ...
