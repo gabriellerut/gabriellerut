@@ -1,8 +1,6 @@
-<div align="center"> 
+<div align="center"align="center" height="84" width="84"<
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;My+name+is+Ruth;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End)](https://git.io/typing-svg)
-<br>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;My+name+is+Ruth+Gabrielle;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,12 +21,6 @@
 </a>
 
 
-<div align="center">
-  
-<br>
-<br>
-<br>
-<br>
 
 <p align="centre"><b>Visitors Count</b></p> 
   
