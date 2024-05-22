@@ -1,6 +1,6 @@
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Hello+World;My+name+is+Ruth;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;My+name+is+Ruth;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End=&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb)](https://git.io/typing-svg)
 <br>
 <br>
 
