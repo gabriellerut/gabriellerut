@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+my+name+is+Ruth;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End+em+Linguagem+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;My+name+is+Ruth;Moro+no+Brasil;Eu+sou+Desenvolvedora+Front-End)](https://git.io/typing-svg)
 <br>
 <br>
 
